@@ -6,6 +6,6 @@ channels: # I recommend keeping this order
 dependencies:
   - r-base # base r
   - r-essentials # You will probably want this
-  - r-ggplot2
-  - r-ggpmisc
-  - r-gridextra
+  - r-ggplot2 # required for analyses and plots
+  - r-ggpmisc # required for analyses and plots
+  - r-gridextra # required for analyses and plots
